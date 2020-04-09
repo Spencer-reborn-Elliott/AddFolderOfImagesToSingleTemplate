@@ -1,0 +1,9 @@
+C:\Users\Spencer\source\repos\AddFolderOfImagesToSingleTemplate\obj\Release\AddFolderOfImagesToSingleTemplate.csprojAssemblyReference.cache
+C:\Users\Spencer\source\repos\AddFolderOfImagesToSingleTemplate\obj\Release\ImageResizerAndLogoAdder.Form1.resources
+C:\Users\Spencer\source\repos\AddFolderOfImagesToSingleTemplate\obj\Release\AddFolderOfImagesToSingleTemplate.csproj.GenerateResource.cache
+C:\Users\Spencer\source\repos\AddFolderOfImagesToSingleTemplate\obj\Release\AddFolderOfImagesToSingleTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Spencer\source\repos\AddFolderOfImagesToSingleTemplate\bin\Release\AddFolderOfImagesToSingleTemplate.exe
+C:\Users\Spencer\source\repos\AddFolderOfImagesToSingleTemplate\bin\Release\AddFolderOfImagesToSingleTemplate.pdb
+C:\Users\Spencer\source\repos\AddFolderOfImagesToSingleTemplate\obj\Release\AddFolderOfImagesToSingleTemplate.Properties.Resources.resources
+C:\Users\Spencer\source\repos\AddFolderOfImagesToSingleTemplate\obj\Release\AddFolderOfImagesToSingleTemplate.exe
+C:\Users\Spencer\source\repos\AddFolderOfImagesToSingleTemplate\obj\Release\AddFolderOfImagesToSingleTemplate.pdb
